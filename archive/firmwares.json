@@ -1,0 +1,255 @@
+{
+  "catalog_version": 2,
+  "vendors": [
+    {
+      "name": "Nothing",
+      "devices": [
+        {
+          "name": "Nothing Ear (1)",
+          "model_code": "B181",
+          "firmwares": [
+            {
+              "version": "0.6700.1.88",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1751954874878ATA-11-C_low_bat_V88(CS_579CC936)_20220623.bin",
+              "sha256": "69267faabb6505091611be31d63c5b6a9581dfa6c73f9eb61a8e662de40c91bb",
+              "notes": "1. New synchronisation with Phone (1) in Game Mode.\n2. Added support for Microsoft Quick Swift.\n3. Optimised call power consumption and increased call life."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (a)",
+          "model_code": "B162",
+          "firmwares": [
+            {
+              "version": "1.0.1.51",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177201627884822251_BT_OTA_V1.0.1.51_20260202_ed307710_Release.dfu",
+              "sha256": "1d2bd74f5db58bf455b20ec8491c00b77cb9e16f81b9e40015ccb83810924c23",
+              "notes": "1. Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (Stick)",
+          "model_code": "B157",
+          "firmwares": [
+            {
+              "version": "1.0.1.86",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1742889840270Stick_1_0_1_86_20230727.bin",
+              "sha256": "efded49112bfb42d98c102bd074ad29f6c67ddfe92afa4f3852e603f224a9328",
+              "notes": "1. Optimised the bass sound when 'MORE BASS' is selected in the EQ.\n2. Optimised call quality."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (2)",
+          "model_code": "B155",
+          "firmwares": [
+            {
+              "version": "1.0.1.102",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/174314625815521211_BT_CRC32_V1.0.1.102_202308022_02d76a81_CASE_V1.0.1.73_20230410_release.dfu",
+              "sha256": "bd57049299888b8c0c90be53700ecb988a2bbe2e85b64144dd9559b58f736097",
+              "notes": "Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (2024)",
+          "model_code": "B171",
+          "firmwares": [
+            {
+              "version": "1.0.1.56",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177218566695223262_BT_OTA_V1.0.1.56_20260131_3EF97D6E_Release.dfu",
+              "sha256": "f6909904d30de3f90ba8e7cdc81a9bcae3bc082c75444d498a12f0c3bd6333e9",
+              "notes": "1. Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (open)",
+          "model_code": "B174",
+          "firmwares": [
+            {
+              "version": "1.0.1.28",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/176916339135723291_BT_OTA_V1.0.1.28_20251208_fa8ae467_Release.dfu",
+              "sha256": "d030a7e5853d1a9c1be7d630e6e4fccb5e3edffb63045d5cfa82d076abfbd776",
+              "notes": "1. Enhanced connection reliability."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (a) (Rev 2)",
+          "model_code": "B183",
+          "firmwares": [
+            {
+              "version": "1.0.1.51",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177088745963824272_BT_OTA_V1.0.1.51_20260202_5efdd03f_Release.dfu",
+              "sha256": "9723d05d59950e5c20d7ec6a87e114095624851ccd2ca2051006725ce111da80",
+              "notes": "1. Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Headphone (1)",
+          "model_code": "B170",
+          "firmwares": [
+            {
+              "version": "1.0.1.81",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177081672187923251_BT_OTA_V1.0.1.81_Release.dfu",
+              "sha256": "cdc4fe2ac90f6fa23b0058a88dab5b8f262c17c405336217ee2e760a771ba0df",
+              "notes": "Refined bass tuning for clearer low-frequency performance while maintaining overall balance."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Ear (3)",
+          "model_code": "B173",
+          "firmwares": [
+            {
+              "version": "1.0.1.69",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/178117362732623282_EARBUD_OTA_V1.0.1.69_20260601_Release.dfu",
+              "sha256": "84df0c8e2875372d007ec9c242763f7c62708eeddd8a636e3d352cda646e7e5e",
+              "notes": "1. Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Headphone (a)",
+          "model_code": "B186",
+          "firmwares": [
+            {
+              "version": "1.0.1.51",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177743194278724292_BT_BOOT_V1.0.1.51_release.dfu",
+              "sha256": "622bedc7ce77fed35ae6f17037c5740c4651cbec43cfaa09d9a436992c0746ff",
+              "notes": "1. Clearer sound for a smoother listening experience.\n2. Improved connectivity."
+            }
+          ]
+        },
+        {
+          "name": "Nothing Headphone (a) (Rev 2)",
+          "model_code": "B198",
+          "firmwares": [
+            {
+              "version": "1.0.1.51",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177728393576624293_BT_BOOT_V1.0.1.51_release.dfu",
+              "sha256": "f7f53af5ce2984b36bda33a52487b0c029b707af9674f19c3b5ce722397a467f",
+              "notes": "1. Clearer sound for a smoother listening experience.\n2. Improved connectivity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMF",
+      "devices": [
+        {
+          "name": "CMF Buds",
+          "model_code": "B168",
+          "firmwares": [
+            {
+              "version": "1.0.5.049",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/174314650245623231_v1.0.5.049_ota.bin",
+              "sha256": "8d804f062aa0c33f59386a18131cbe411efea6f7878fc41effd9593d44c0fbb7",
+              "notes": "1. Optimised the sound quality of Dirac Opteo."
+            }
+          ]
+        },
+        {
+          "name": "CMF Buds 2",
+          "model_code": "B179",
+          "firmwares": [
+            {
+              "version": "1.0.1.52",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177201289909724232_BT_OTA_V1.0.1.52_20260202_6efb0462_Release.bin",
+              "sha256": "6d6858f53aabf084a8eb7ca8e9b836072827e5886e38e8a845f8744f9a565428",
+              "notes": "1. Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "CMF Buds 2a",
+          "model_code": "B185",
+          "firmwares": [
+            {
+              "version": "1.0.1.60",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1770643469058TN24283_offlinelog_v1.0.1.60.bin",
+              "sha256": "e5b9e4dabbf69454414e5a3e49b11990e4e52d0e2e0914148b6fb7974dcbb79a",
+              "notes": "1. Fixed an issue where the second ear does not switch to ANC.\n2. Fixed the GFPS bug."
+            }
+          ]
+        },
+        {
+          "name": "CMF Buds 2 Plus",
+          "model_code": "B184",
+          "firmwares": [
+            {
+              "version": "1.0.1.54",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/177201311567724241_BT_OTA_V1.0.1.54_20260202_b97a2dde_Release.bin",
+              "sha256": "8748d994045688af5dbaa66bd16658d712ac064801d12520539eb9d9ec57a3dd",
+              "notes": "1. Bugs fixed."
+            }
+          ]
+        },
+        {
+          "name": "CMF Buds Pro",
+          "model_code": "B163",
+          "firmwares": [
+            {
+              "version": "1.0.1.193",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1743146334978Corsola_1_0_1_193_20240629.bin",
+              "sha256": "da814d326eee3003066937ff244a8ae9d73053dd2f5813aa552ffb18487ee3c4",
+              "notes": "Optimised the sound quality of the 'Balanced' and 'More Bass' options within the Equaliser."
+            }
+          ]
+        },
+        {
+          "name": "CMF Buds Pro 2",
+          "model_code": "B172",
+          "firmwares": [
+            {
+              "version": "0.0.8.8",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1772015695725JX195_20_NT_23272_BES2600Z_6X_V0.0.8.8_202602021600_ota.bin.converted.bin",
+              "sha256": "b22373633a063d676b34091b990a99c1495cd8f7614ef1b7788fd714e74749a2",
+              "notes": "1. Fixed the GFPS bug."
+            }
+          ]
+        },
+        {
+          "name": "CMF Buds Pro 2 (Rev 2)",
+          "model_code": "B187",
+          "firmwares": [
+            {
+              "version": "1.0.1.74",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1770728924357NT_24253_BES2710IHC_6Z_V1.0.1.74_260202_ota.bin.converted.bin",
+              "sha256": "53573bd9e3a1bf6d65b7bed1e121bacb46cacfcd0036a2484bf33e0b3ce44f3b",
+              "notes": "1. Fixed the GFPS bug."
+            }
+          ]
+        },
+        {
+          "name": "CMF Neckband Pro",
+          "model_code": "B164",
+          "firmwares": [
+            {
+              "version": "1.0.1.035",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1772595542878best1502x_22271_V1.0.1.035_2_04_4M_OTA.bin",
+              "sha256": "bc8684738afbb58e7724af516daf26ae2ee4156bfb7bb01f55112fcaf6e05b35",
+              "notes": "1. Fixed the GFPS bug."
+            }
+          ]
+        },
+        {
+          "name": "CMF Headphone Pro",
+          "model_code": "B175",
+          "firmwares": [
+            {
+              "version": "1.0.1.49",
+              "url": "https://d1zc89dd4u2mk2.cloudfront.net/ota/1786438500128NT24211_V1.0.1.49_MCU_V1019_20260707_APP_CRC.bin",
+              "sha256": "b6ad28786d406429459ad8153532fcd2ff3a8f4c73cc09d4b923086776ba4e5e",
+              "notes": "1. Improved Bluetooth connection stability.\n2. Improved Google Fast Pair reliability.\n3. Optimised notification volume.\n4. Enhanced audio performance.\n5. Refined audio performance."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
