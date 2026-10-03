@@ -1,5 +1,10 @@
 # Nothing & CMF Firmware Repository
 
+## WARNING!!
+It seems that Nothing has started protecting its firmware updates. For example, the Nothing Headphone (1) Pro **cannot be modified using the stock method** (besota) because a signature verification has been added that cannot be bypassed. With this type of check, you can only install any stock firmware.
+
+If you want to keep the option to modify your headphones, I suggest you **avoid updating** to the next firmware versions (I think all future updates will include exactly the same protection). But it's your choice ¯\\\_(ツ)_/¯
+
 | Headphone Model | Model Code | Download | BESOTA version & OTA_BOOT | Changelog | SHA256 |
 | :--- | :---: | :---: | :--- | :--- | :---: |
 | Nothing Ear (1) | B181 | [download (v0.6700.1.88)](https://d1zc89dd4u2mk2.cloudfront.net/ota/1751954874878ATA-11-C_low_bat_V88(CS_579CC936)_20220623.bin) | BESOTA V1, OTA_BOOT offset - 0x18000 | 1.New synchronisation with Phone (1) in Game Mode. If Phone (1) is connected to Ear (1) whilst entering a game, Ear (1) will also automatically activate low-latency mode. <br>2.Added support for Microsoft Quick Swift. Allows quick pairing with all Microsoft devices of Windows 10 (version 1803 above) via an automatic pop-up window prompting connection. <br>3.Optimised call power consumption and increased call life. | `69267faabb6505091611be31d63c5b6a9581dfa6c73f9eb61a8e662de40c91bb` |
