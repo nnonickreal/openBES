@@ -1,13 +1,20 @@
 # Nothing & CMF Firmware Repository
 
-## WARNING!!
-It seems that Nothing has started protecting its firmware updates. For example, the Nothing Headphone (1) Pro **cannot be modified using the stock method** (besota) because a signature verification has been added that cannot be bypassed. With this type of check, you can only install any stock firmware.
-
-If you want to keep the option to modify your headphones, I suggest you **avoid updating** to the next firmware versions (I think all future updates will include exactly the same protection). But it's your choice ¯\\\_(ツ)_/¯
+> [!WARNING]
+> It seems that Nothing has started protecting its firmware updates. For example, the Nothing Headphone (1) Pro **cannot be modified using the stock method**
+> (besota) because a signature verification has been added that cannot be bypassed.
+>
+> With this type of check, you can only install official stock firmware. The only
+> option for modification in this case is [UART](https://github.com/nnonickreal/openqore/blob/main/docs/UART_things/FLASH_MP.md).
+>
+> If you want to keep the option to modify your headphones, I suggest you **avoid updating** to newer firmware versions (I think all future updates will include 
+> exactly the same protection).
+>
+> But it's your choice ¯\\\_(ツ)_/¯
 
 | Headphone Model | Model Code | Download | BESOTA version & OTA_BOOT | Changelog | SHA256 |
 | :--- | :---: | :---: | :--- | :--- | :---: |
-| Nothing Ear (1) | B181 | [download (v0.6700.1.88)](https://d1zc89dd4u2mk2.cloudfront.net/ota/1751954874878ATA-11-C_low_bat_V88(CS_579CC936)_20220623.bin) | BESOTA V1, OTA_BOOT offset - 0x18000 | 1.New synchronisation with Phone (1) in Game Mode. If Phone (1) is connected to Ear (1) whilst entering a game, Ear (1) will also automatically activate low-latency mode. <br>2.Added support for Microsoft Quick Swift. Allows quick pairing with all Microsoft devices of Windows 10 (version 1803 above) via an automatic pop-up window prompting connection. <br>3.Optimised call power consumption and increased call life. | `69267faabb6505091611be31d63c5b6a9581dfa6c73f9eb61a8e662de40c91bb` |
+| Nothing Ear (1) | B181 | [download (v0.6700.1.88)](https://d1zc89dd4u2mk2.cloudfront.net/ota/1751954874878ATA-11-C_low_bat_V88(CS_579CC936)_20220623.bin) | BESOTA V1, OTA_BOOT offset - 0x18000 | 1.New synchronisation with Phone (1) in Game Mode... etc | `69267faabb6505091611be31d63c5b6a9581dfa6c73f9eb61a8e662de40c91bb` |
 | Nothing Ear (a) | B162 | [download (v1.0.1.51)](https://d1zc89dd4u2mk2.cloudfront.net/ota/177201627884822251_BT_OTA_V1.0.1.51_20260202_ed307710_Release.dfu) | BESOTA V?, OTA_BOOT offset - unknown | 1. Bugs fixed. | `1d2bd74f5db58bf455b20ec8491c00b77cb9e16f81b9e40015ccb83810924c23` |
 | Nothing Ear (Stick) | B157 | [download (v1.0.1.86)](https://d1zc89dd4u2mk2.cloudfront.net/ota/1742889840270Stick_1_0_1_86_20230727.bin) | BESOTA V?, OTA_BOOT offset - unknown | 1. Optimised the bass sound when 'MORE BASS' is selected in the EQ. <br>2. Optimised call quality. | `efded49112bfb42d98c102bd074ad29f6c67ddfe92afa4f3852e603f224a9328` |
 | Nothing Ear (2) | B155 | [download (v1.0.1.102)](https://d1zc89dd4u2mk2.cloudfront.net/ota/174314625815521211_BT_CRC32_V1.0.1.102_202308022_02d76a81_CASE_V1.0.1.73_20230410_release.dfu) | BESOTA V?, OTA_BOOT offset - unknown | Bugs fixed. | `bd57049299888b8c0c90be53700ecb988a2bbe2e85b64144dd9559b58f736097` |
